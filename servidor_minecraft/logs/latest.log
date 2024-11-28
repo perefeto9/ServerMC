@@ -221,3 +221,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Nov2024 22:11:12.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 was blown up by Creeper
 [28Nov2024 22:11:12.242] [Server thread/INFO] [tombstone/]: The player Seta33 has successfully been saved
 [28Nov2024 22:11:17.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to -93.500000, -12.500000, 128.500000]
+[28Nov2024 22:16:33.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Suit Up]
+[28Nov2024 22:19:55.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 was blown up by Creeper
+[28Nov2024 22:19:55.920] [Server thread/INFO] [tombstone/]: The player Seta33 has successfully been saved
+[28Nov2024 22:20:01.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to -93.500000, -26.500000, 106.500000]
