@@ -196,3 +196,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Nov2024 21:39:10.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 joined the game
 [28Nov2024 21:39:10.643] [Server thread/INFO] [Jade/]: Syncing config to Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e)
 [28Nov2024 21:39:12.919] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[28Nov2024 21:44:17.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Stone Age]
+[28Nov2024 21:46:16.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Getting an Upgrade]
+[28Nov2024 21:49:58.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Acquire Hardware]
+[28Nov2024 21:50:26.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Isn't It Iron Pick]
