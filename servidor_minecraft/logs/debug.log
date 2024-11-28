@@ -2263,3 +2263,27 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28Nov2024 22:02:28.485] [Server thread/INFO] [tombstone/]: The player Seta33 has successfully been saved
 [28Nov2024 22:02:31.167] [Server thread/DEBUG] [twilightforest/]: Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) respawned and received items held in storage
 [28Nov2024 22:02:37.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to -107.500000, -40.500000, 60.500000]
+[28Nov2024 22:03:40.554] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Nov2024 22:03:40.564] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Nov2024 22:05:03.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Diamonds!]
+[28Nov2024 22:07:20.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 was blown up by Creeper
+[28Nov2024 22:07:20.380] [Server thread/DEBUG] [tombstone/]: A new grave of the player Seta33 was created at position [x:-105, y:-34, z:82, dim:minecraft:overworld]
+[28Nov2024 22:07:20.389] [Server thread/INFO] [tombstone/]: The player Seta33 has successfully been saved
+[28Nov2024 22:07:22.111] [Server thread/DEBUG] [twilightforest/]: Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) respawned and received items held in storage
+[28Nov2024 22:07:25.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to -104.500000, -33.500000, 82.500000]
+[28Nov2024 22:08:40.553] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Nov2024 22:08:40.563] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Nov2024 22:09:15.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 was slain by Zombie
+[28Nov2024 22:09:15.010] [Server thread/DEBUG] [tombstone/]: A new grave of the player Seta33 was created at position [x:-92, y:-15, z:127, dim:minecraft:overworld]
+[28Nov2024 22:09:15.013] [Server thread/INFO] [tombstone/]: The player Seta33 has successfully been saved
+[28Nov2024 22:09:16.222] [Server thread/DEBUG] [twilightforest/]: Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) respawned and received items held in storage
+[28Nov2024 22:09:19.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to -91.500000, -14.500000, 127.500000]
+[28Nov2024 22:09:24.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Knowledge of Death]
+[28Nov2024 22:09:24.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has reached the goal [Here They Come]
+[28Nov2024 22:11:12.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 was blown up by Creeper
+[28Nov2024 22:11:12.230] [Server thread/DEBUG] [tombstone/]: A new grave of the player Seta33 was created at position [x:-94, y:-14, z:127, dim:minecraft:overworld]
+[28Nov2024 22:11:12.242] [Server thread/INFO] [tombstone/]: The player Seta33 has successfully been saved
+[28Nov2024 22:11:14.649] [Server thread/DEBUG] [twilightforest/]: Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) respawned and received items held in storage
+[28Nov2024 22:11:17.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to -93.500000, -12.500000, 128.500000]
+[28Nov2024 22:13:40.529] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Nov2024 22:13:40.535] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
