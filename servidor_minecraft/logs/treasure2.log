@@ -3789,3 +3789,4 @@
 2024-11-28 21:33:26,150 [Server thread] INFO treasure2 | WorldEventHandler.java:64 | In world load event for dimension twilightforest:twilight_forest
 2024-11-28 21:33:26,160 [Server thread] INFO treasure2 | WorldEventHandler.java:54 | In world load event
 2024-11-28 21:33:26,160 [Server thread] INFO treasure2 | WorldEventHandler.java:64 | In world load event for dimension minecraft:the_end
+2024-11-28 22:27:04,724 [Server thread] WARN treasure2 | DeferredGeneratorBlockEntity.java:120 | unable to locate rarity config for rarity - >UNCOMMON
