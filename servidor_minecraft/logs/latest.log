@@ -1,71 +1,71 @@
-[28Nov2024 21:32:28.747] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.2.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
-[28Nov2024 21:32:28.751] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
-[28Nov2024 21:32:29.202] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[28Nov2024 21:32:29.262] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/ServerMC/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[28Nov2024 21:32:29.688] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServerMC/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.2.0/fmlcore-1.20.1-47.2.0.jar is missing mods.toml file
-[28Nov2024 21:32:29.691] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServerMC/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.2.0/javafmllanguage-1.20.1-47.2.0.jar is missing mods.toml file
-[28Nov2024 21:32:29.694] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServerMC/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.2.0/lowcodelanguage-1.20.1-47.2.0.jar is missing mods.toml file
-[28Nov2024 21:32:29.695] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServerMC/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.2.0/mclanguage-1.20.1-47.2.0.jar is missing mods.toml file
-[28Nov2024 21:32:29.978] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[28Nov2024 21:32:29.980] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
-[28Nov2024 21:32:34.126] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[28Nov2024 21:32:34.274] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[28Nov2024 21:32:34.389] [main/WARN] [mixin/]: Reference map 'CerbonsAPI-Forge-1.20.1-forge-refmap.json' for cerbons_api.mixins.json could not be read. If this is a development environment you can ignore this message
-[28Nov2024 21:32:37.279] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.0).
-[28Nov2024 21:32:48.653] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.2.0, for MC 1.20.1 with MCP 20230612.114412
-[28Nov2024 21:32:48.654] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.2.0 Initialized
-[28Nov2024 21:32:50.467] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
-[28Nov2024 21:32:50.468] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
-[28Nov2024 21:32:50.471] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
-[28Nov2024 21:32:50.473] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
-[28Nov2024 21:32:50.475] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
-[28Nov2024 21:32:50.477] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
-[28Nov2024 21:32:50.481] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
-[28Nov2024 21:32:50.483] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
-[28Nov2024 21:32:50.485] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
-[28Nov2024 21:32:50.487] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
-[28Nov2024 21:32:50.490] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
-[28Nov2024 21:32:50.494] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
-[28Nov2024 21:32:50.496] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
-[28Nov2024 21:32:50.499] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
-[28Nov2024 21:32:50.502] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
-[28Nov2024 21:32:50.504] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
-[28Nov2024 21:32:50.506] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
-[28Nov2024 21:32:50.509] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
-[28Nov2024 21:32:50.511] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
-[28Nov2024 21:32:50.513] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
-[28Nov2024 21:32:50.515] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
-[28Nov2024 21:32:51.614] [main/INFO] [treasure2/]: colliding particle data creating from coords, deserializer...
-[28Nov2024 21:32:51.614] [main/INFO] [treasure2/]: colliding particle data creating from coords, deserializer...
-[28Nov2024 21:32:53.011] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class mod.gottsch.forge.treasure2.core.entity.monster.PirateChestMimic from class mod.gottsch.forge.treasure2.core.entity.monster.Mimic
-[28Nov2024 21:32:53.012] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class mod.gottsch.forge.treasure2.core.entity.monster.PirateChestMimic from class mod.gottsch.forge.treasure2.core.entity.monster.Mimic
-[28Nov2024 21:32:53.013] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class mod.gottsch.forge.treasure2.core.entity.monster.PirateChestMimic from class mod.gottsch.forge.treasure2.core.entity.monster.Mimic
-[28Nov2024 21:32:53.826] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [treasure2] Starting version check at https://raw.githubusercontent.com/gottsch/gottsch-minecraft-Treasure/1.20.1-main/update.json
-[28Nov2024 21:32:54.356] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[28Nov2024 21:32:54.364] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
-[28Nov2024 21:32:54.367] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[28Nov2024 21:32:54.368] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
-[28Nov2024 21:32:54.385] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [treasure2] Found status: UP_TO_DATE Current: 3.10.3 Target: null
-[28Nov2024 21:32:54.388] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [attributefix] Starting version check at https://updates.blamejared.com/get?n=attributefix&gv=1.20.1
-[28Nov2024 21:32:54.447] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[28Nov2024 21:32:54.459] [modloading-worker-0/INFO] [AttributeFix/]: Loaded values for 20 compatible attributes.
-[28Nov2024 21:32:54.463] [modloading-worker-0/INFO] [AttributeFix/]: Loaded 20 values from config.
-[28Nov2024 21:32:54.471] [modloading-worker-0/INFO] [AttributeFix/]: Saving config file. 20 entries.
-[28Nov2024 21:32:54.473] [modloading-worker-0/INFO] [AttributeFix/]: Applying changes for 20 attributes.
-[28Nov2024 21:32:54.491] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[28Nov2024 21:32:54.497] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[28Nov2024 21:32:54.500] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
-[28Nov2024 21:32:54.502] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
-[28Nov2024 21:32:54.504] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at twilightforest.compat.jade.JadeCompat
-[28Nov2024 21:32:54.778] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [attributefix] Found status: BETA Current: 21.0.4 Target: 21.0.4
-[28Nov2024 21:32:54.780] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[28Nov2024 21:32:54.792] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.6.3 Target: 8.8.6
-[28Nov2024 21:32:54.792] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gottschcore] Starting version check at https://raw.githubusercontent.com/gottsch/gottsch-minecraft-GottschCore/1.20.1-main/update.json
-[28Nov2024 21:32:54.802] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gottschcore] Found status: OUTDATED Current: 2.2.0 Target: 2.3.0
-[28Nov2024 21:32:54.802] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[28Nov2024 21:32:54.925] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.2.0 Target: 47.3.0
-[28Nov2024 21:32:54.925] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
-[28Nov2024 21:32:55.061] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[29Nov2024 01:37:14.392] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.2.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[29Nov2024 01:37:14.413] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[29Nov2024 01:37:19.831] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[29Nov2024 01:37:20.035] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/ServerMC/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[29Nov2024 01:37:20.837] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServerMC/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.2.0/fmlcore-1.20.1-47.2.0.jar is missing mods.toml file
+[29Nov2024 01:37:20.841] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServerMC/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.2.0/javafmllanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[29Nov2024 01:37:20.849] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServerMC/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.2.0/lowcodelanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[29Nov2024 01:37:20.850] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServerMC/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.2.0/mclanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[29Nov2024 01:37:21.294] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[29Nov2024 01:37:21.304] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
+[29Nov2024 01:37:27.812] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[29Nov2024 01:37:27.922] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[29Nov2024 01:37:28.132] [main/WARN] [mixin/]: Reference map 'CerbonsAPI-Forge-1.20.1-forge-refmap.json' for cerbons_api.mixins.json could not be read. If this is a development environment you can ignore this message
+[29Nov2024 01:37:32.169] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.0).
+[29Nov2024 01:37:47.068] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.2.0, for MC 1.20.1 with MCP 20230612.114412
+[29Nov2024 01:37:47.070] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.2.0 Initialized
+[29Nov2024 01:37:49.166] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
+[29Nov2024 01:37:49.169] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
+[29Nov2024 01:37:49.171] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
+[29Nov2024 01:37:49.173] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
+[29Nov2024 01:37:49.175] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
+[29Nov2024 01:37:49.177] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
+[29Nov2024 01:37:49.180] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
+[29Nov2024 01:37:49.182] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
+[29Nov2024 01:37:49.184] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
+[29Nov2024 01:37:49.186] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
+[29Nov2024 01:37:49.188] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
+[29Nov2024 01:37:49.191] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
+[29Nov2024 01:37:49.193] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
+[29Nov2024 01:37:49.195] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
+[29Nov2024 01:37:49.198] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
+[29Nov2024 01:37:49.200] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
+[29Nov2024 01:37:49.202] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
+[29Nov2024 01:37:49.204] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
+[29Nov2024 01:37:49.206] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
+[29Nov2024 01:37:49.208] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
+[29Nov2024 01:37:49.210] [main/ERROR] [treasure2/]: java.lang.reflect.InvocationTargetException
+[29Nov2024 01:37:50.534] [main/INFO] [treasure2/]: colliding particle data creating from coords, deserializer...
+[29Nov2024 01:37:50.542] [main/INFO] [treasure2/]: colliding particle data creating from coords, deserializer...
+[29Nov2024 01:37:51.657] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class mod.gottsch.forge.treasure2.core.entity.monster.PirateChestMimic from class mod.gottsch.forge.treasure2.core.entity.monster.Mimic
+[29Nov2024 01:37:51.658] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class mod.gottsch.forge.treasure2.core.entity.monster.PirateChestMimic from class mod.gottsch.forge.treasure2.core.entity.monster.Mimic
+[29Nov2024 01:37:51.659] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class mod.gottsch.forge.treasure2.core.entity.monster.PirateChestMimic from class mod.gottsch.forge.treasure2.core.entity.monster.Mimic
+[29Nov2024 01:37:52.609] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [treasure2] Starting version check at https://raw.githubusercontent.com/gottsch/gottsch-minecraft-Treasure/1.20.1-main/update.json
+[29Nov2024 01:37:53.095] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [treasure2] Found status: UP_TO_DATE Current: 3.10.3 Target: null
+[29Nov2024 01:37:53.098] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [attributefix] Starting version check at https://updates.blamejared.com/get?n=attributefix&gv=1.20.1
+[29Nov2024 01:37:53.151] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[29Nov2024 01:37:53.152] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[29Nov2024 01:37:53.156] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[29Nov2024 01:37:53.156] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[29Nov2024 01:37:53.203] [modloading-worker-0/INFO] [AttributeFix/]: Loaded values for 20 compatible attributes.
+[29Nov2024 01:37:53.207] [modloading-worker-0/INFO] [AttributeFix/]: Loaded 20 values from config.
+[29Nov2024 01:37:53.225] [modloading-worker-0/INFO] [AttributeFix/]: Saving config file. 20 entries.
+[29Nov2024 01:37:53.227] [modloading-worker-0/INFO] [AttributeFix/]: Applying changes for 20 attributes.
+[29Nov2024 01:37:53.254] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[29Nov2024 01:37:53.293] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[29Nov2024 01:37:53.298] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[29Nov2024 01:37:53.300] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
+[29Nov2024 01:37:53.300] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
+[29Nov2024 01:37:53.301] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at twilightforest.compat.jade.JadeCompat
+[29Nov2024 01:37:53.514] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [attributefix] Found status: BETA Current: 21.0.4 Target: 21.0.4
+[29Nov2024 01:37:53.515] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[29Nov2024 01:37:53.526] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.6.3 Target: 8.8.6
+[29Nov2024 01:37:53.526] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gottschcore] Starting version check at https://raw.githubusercontent.com/gottsch/gottsch-minecraft-GottschCore/1.20.1-main/update.json
+[29Nov2024 01:37:53.540] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gottschcore] Found status: OUTDATED Current: 2.2.0 Target: 2.3.0
+[29Nov2024 01:37:53.540] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[29Nov2024 01:37:53.667] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.2.0 Target: 47.3.0
+[29Nov2024 01:37:53.667] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[29Nov2024 01:37:53.749] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -80,10 +80,10 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[28Nov2024 21:33:02.540] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[28Nov2024 21:33:06.602] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/ServerMC/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23163!/assets/.mcassetsroot' uses unexpected schema
-[28Nov2024 21:33:06.604] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/ServerMC/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23163!/data/.mcassetsroot' uses unexpected schema
-[28Nov2024 21:33:10.192] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:treasure2:grant_book_on_first_join
+[29Nov2024 01:37:59.554] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[29Nov2024 01:38:03.166] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/ServerMC/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23163!/assets/.mcassetsroot' uses unexpected schema
+[29Nov2024 01:38:03.170] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/ServerMC/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23163!/data/.mcassetsroot' uses unexpected schema
+[29Nov2024 01:38:07.022] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:treasure2:grant_book_on_first_join
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'patchouli:guide_book'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23163!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -135,107 +135,65 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
-[28Nov2024 21:33:11.321] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
-[28Nov2024 21:33:11.468] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
-[28Nov2024 21:33:11.482] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
-[28Nov2024 21:33:11.485] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
-[28Nov2024 21:33:11.489] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
-[28Nov2024 21:33:11.495] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
-[28Nov2024 21:33:11.518] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
-[28Nov2024 21:33:11.524] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
-[28Nov2024 21:33:11.528] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 15 recipes
-[28Nov2024 21:33:11.733] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2278 advancements
-[28Nov2024 21:33:11.761] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
-[28Nov2024 21:33:11.769] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[28Nov2024 21:33:11.792] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
-[28Nov2024 21:33:14.438] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[28Nov2024 21:33:14.439] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[28Nov2024 21:33:14.439] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[28Nov2024 21:33:14.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[28Nov2024 21:33:14.682] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[28Nov2024 21:33:14.726] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[28Nov2024 21:33:14.887] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[28Nov2024 21:33:14.889] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[28Nov2024 21:33:14.891] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[28Nov2024 21:33:14.897] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[28Nov2024 21:33:15.150] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[28Nov2024 21:33:16.704] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith.ObsidilithEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith.ObsidilithUtils
-[28Nov2024 21:33:16.716] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.custom.gauntlet.GauntletEntity from class com.cerbon.bosses_of_mass_destruction.projectile.PetalBladeProjectile
-[28Nov2024 21:33:16.733] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.util.BaseEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.void_blossom.hitbox.NetworkedHitboxManager
-[28Nov2024 21:33:26.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[28Nov2024 21:33:36.033] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Nov2024 21:33:36.042] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Nov2024 21:33:36.045] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Nov2024 21:33:36.050] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Nov2024 21:33:36.055] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Nov2024 21:33:36.061] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Nov2024 21:33:36.067] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Nov2024 21:33:36.077] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Nov2024 21:33:36.081] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Nov2024 21:33:36.086] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Nov2024 21:33:36.090] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Nov2024 21:33:36.095] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Nov2024 21:33:36.101] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Nov2024 21:33:36.106] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Nov2024 21:33:36.116] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Nov2024 21:33:36.120] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Nov2024 21:33:36.125] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Nov2024 21:33:36.128] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Nov2024 21:33:36.131] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Nov2024 21:33:36.134] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Nov2024 21:33:36.163] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Nov2024 21:33:36.663] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Nov2024 21:33:37.163] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Nov2024 21:33:37.664] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Nov2024 21:33:38.172] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 74%
-[28Nov2024 21:33:38.470] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 12308 ms
-[28Nov2024 21:33:38.472] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (23.527s)! For help, type "help"
-[28Nov2024 21:33:38.541] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[28Nov2024 21:39:09.962] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[28Nov2024 21:39:10.023] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Seta33[/127.71.248.66:55557] logged in with entity id 572 at (-4.5, 63.0, 3.5)
-[28Nov2024 21:39:10.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 joined the game
-[28Nov2024 21:39:10.643] [Server thread/INFO] [Jade/]: Syncing config to Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e)
-[28Nov2024 21:39:12.919] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
-[28Nov2024 21:44:17.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Stone Age]
-[28Nov2024 21:46:16.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Getting an Upgrade]
-[28Nov2024 21:49:58.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Acquire Hardware]
-[28Nov2024 21:50:26.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Isn't It Iron Pick]
-[28Nov2024 21:56:05.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [False Water]
-[28Nov2024 21:59:26.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Full Moon in a Pocket]
-[28Nov2024 22:01:54.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Monster Hunter]
-[28Nov2024 22:01:54.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [A Strange Grave Dust]
-[28Nov2024 22:02:13.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Not Today, Thank You]
-[28Nov2024 22:02:28.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 was shot by Skeleton
-[28Nov2024 22:02:28.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Your First Grave]
-[28Nov2024 22:02:28.485] [Server thread/INFO] [tombstone/]: The player Seta33 has successfully been saved
-[28Nov2024 22:02:37.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to -107.500000, -40.500000, 60.500000]
-[28Nov2024 22:05:03.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Diamonds!]
-[28Nov2024 22:07:20.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 was blown up by Creeper
-[28Nov2024 22:07:20.389] [Server thread/INFO] [tombstone/]: The player Seta33 has successfully been saved
-[28Nov2024 22:07:25.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to -104.500000, -33.500000, 82.500000]
-[28Nov2024 22:09:15.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 was slain by Zombie
-[28Nov2024 22:09:15.013] [Server thread/INFO] [tombstone/]: The player Seta33 has successfully been saved
-[28Nov2024 22:09:19.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to -91.500000, -14.500000, 127.500000]
-[28Nov2024 22:09:24.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Knowledge of Death]
-[28Nov2024 22:09:24.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has reached the goal [Here They Come]
-[28Nov2024 22:11:12.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 was blown up by Creeper
-[28Nov2024 22:11:12.242] [Server thread/INFO] [tombstone/]: The player Seta33 has successfully been saved
-[28Nov2024 22:11:17.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to -93.500000, -12.500000, 128.500000]
-[28Nov2024 22:16:33.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Suit Up]
-[28Nov2024 22:19:55.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 was blown up by Creeper
-[28Nov2024 22:19:55.920] [Server thread/INFO] [tombstone/]: The player Seta33 has successfully been saved
-[28Nov2024 22:20:01.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to -93.500000, -26.500000, 106.500000]
-[28Nov2024 22:23:48.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 was slain by Zombie
-[28Nov2024 22:23:48.073] [Server thread/INFO] [tombstone/]: The player Seta33 has successfully been saved
-[28Nov2024 22:23:53.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to -127.500000, -18.500000, 160.500000]
-[28Nov2024 22:25:01.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Ambush]
-[28Nov2024 22:26:11.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Ashes 'n Bones]
-[28Nov2024 22:30:56.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 was slain by Enderman
-[28Nov2024 22:30:56.966] [Server thread/INFO] [tombstone/]: The player Seta33 has successfully been saved
-[28Nov2024 22:31:01.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to -158.500000, -22.500000, 251.500000]
-[28Nov2024 22:42:54.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 was blown up by Creeper
-[28Nov2024 22:42:54.823] [Server thread/INFO] [tombstone/]: The player Seta33 has successfully been saved
-[28Nov2024 22:43:01.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to -159.500000, -27.500000, 268.500000]
-[28Nov2024 22:45:16.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 was shot by Skeleton
-[28Nov2024 22:45:16.416] [Server thread/INFO] [tombstone/]: The player Seta33 has successfully been saved
-[28Nov2024 22:45:21.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to -146.500000, -32.500000, 291.500000]
+[29Nov2024 01:38:07.976] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[29Nov2024 01:38:08.096] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[29Nov2024 01:38:08.112] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[29Nov2024 01:38:08.115] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[29Nov2024 01:38:08.119] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[29Nov2024 01:38:08.126] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[29Nov2024 01:38:08.145] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[29Nov2024 01:38:08.149] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[29Nov2024 01:38:08.153] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 15 recipes
+[29Nov2024 01:38:08.428] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2278 advancements
+[29Nov2024 01:38:08.454] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
+[29Nov2024 01:38:08.461] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[29Nov2024 01:38:08.481] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
+[29Nov2024 01:38:11.592] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[29Nov2024 01:38:11.593] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[29Nov2024 01:38:11.593] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[29Nov2024 01:38:11.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[29Nov2024 01:38:11.789] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[29Nov2024 01:38:11.855] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[29Nov2024 01:38:12.031] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[29Nov2024 01:38:12.035] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[29Nov2024 01:38:12.042] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[29Nov2024 01:38:12.045] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[29Nov2024 01:38:12.209] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[29Nov2024 01:38:13.748] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith.ObsidilithEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith.ObsidilithUtils
+[29Nov2024 01:38:13.761] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.custom.gauntlet.GauntletEntity from class com.cerbon.bosses_of_mass_destruction.projectile.PetalBladeProjectile
+[29Nov2024 01:38:13.772] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.util.BaseEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.void_blossom.hitbox.NetworkedHitboxManager
+[29Nov2024 01:38:21.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[29Nov2024 01:38:31.883] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2024 01:38:31.889] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2024 01:38:31.891] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2024 01:38:31.893] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2024 01:38:31.896] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2024 01:38:31.899] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2024 01:38:31.909] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2024 01:38:31.912] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2024 01:38:31.914] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2024 01:38:31.917] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2024 01:38:31.919] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2024 01:38:31.927] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2024 01:38:31.930] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2024 01:38:31.933] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2024 01:38:31.935] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2024 01:38:31.937] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2024 01:38:31.943] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2024 01:38:31.945] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2024 01:38:31.948] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2024 01:38:31.951] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2024 01:38:31.953] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2024 01:38:31.957] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2024 01:38:32.067] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2024 01:38:32.567] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2024 01:38:33.104] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Nov2024 01:38:33.578] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
+[29Nov2024 01:38:33.795] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 12729 ms
+[29Nov2024 01:38:33.796] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (21.732s)! For help, type "help"
+[29Nov2024 01:38:33.867] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[29Nov2024 01:39:03.489] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[29Nov2024 01:39:03.651] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Seta33[/127.71.248.66:58051] logged in with entity id 566 at (-199.3274011590526, -33.0, 287.57241908849505)
+[29Nov2024 01:39:03.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 joined the game
+[29Nov2024 01:39:03.999] [Server thread/INFO] [Jade/]: Syncing config to Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e)
+[29Nov2024 01:39:06.235] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
