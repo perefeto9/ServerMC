@@ -28,6 +28,7 @@
       "minecraft:beach": "2024-11-29 13:42:47 +0000",
       "minecraft:lukewarm_ocean": "2024-11-28 22:00:18 +0000",
       "minecraft:river": "2024-11-29 13:45:14 +0000",
+      "minecraft:windswept_savanna": "2024-11-29 13:46:05 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-11-28 22:27:09 +0000",
       "minecraft:savanna": "2024-11-28 21:39:13 +0000"
     },
@@ -1656,6 +1657,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2024-11-28 22:16:25 +0000",
+      "spider_eye": "2024-11-29 13:54:52 +0000",
       "bread": "2024-11-28 22:56:47 +0000",
       "golden_apple": "2024-11-29 01:40:46 +0000",
       "rotten_flesh": "2024-11-29 01:50:19 +0000",
@@ -1852,7 +1854,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "glow_berries": "2024-11-28 22:51:02 +0000"
+      "glow_berries": "2024-11-28 22:51:02 +0000",
+      "sugar_cane": "2024-11-29 13:54:34 +0000"
     },
     "done": false
   },
@@ -1892,6 +1895,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2024-11-29 13:45:46 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/pumpkin_soup": {
     "criteria": {
       "has_any_ingredient": "2024-11-29 13:33:18 +0000"
@@ -1904,9 +1913,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-11-29 13:54:29 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/hot_cocoa": {
     "criteria": {
       "has_any_ingredient": "2024-11-29 13:33:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-11-29 13:54:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2024-11-29 13:45:46 +0000"
     },
     "done": true
   },

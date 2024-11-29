@@ -213,3 +213,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29Nov2024 13:40:42.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Survival Mode]
 [29Nov2024 13:41:58.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 was shot by Skeleton
 [29Nov2024 13:41:59.108] [Server thread/INFO] [tombstone/]: The player Seta33 has successfully been saved
+[29Nov2024 13:55:57.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has reached the goal [Plant Food]
