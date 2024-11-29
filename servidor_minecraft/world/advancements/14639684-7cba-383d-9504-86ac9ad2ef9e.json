@@ -25,7 +25,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2024-11-29 13:42:47 +0000",
       "minecraft:lukewarm_ocean": "2024-11-28 22:00:18 +0000",
+      "minecraft:river": "2024-11-29 13:45:14 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-11-28 22:27:09 +0000",
       "minecraft:savanna": "2024-11-28 21:39:13 +0000"
     },
@@ -1460,6 +1462,7 @@
       "minecraft:creeper": "2024-11-28 22:27:17 +0000",
       "minecraft:witch": "2024-11-28 22:25:01 +0000",
       "minecraft:cave_spider": "2024-11-28 22:50:39 +0000",
+      "minecraft:enderman": "2024-11-29 01:54:19 +0000",
       "minecraft:zombie": "2024-11-28 22:01:54 +0000"
     },
     "done": false
@@ -1655,7 +1658,9 @@
       "cooked_beef": "2024-11-28 22:16:25 +0000",
       "bread": "2024-11-28 22:56:47 +0000",
       "golden_apple": "2024-11-29 01:40:46 +0000",
-      "glow_berries": "2024-11-28 22:50:57 +0000"
+      "rotten_flesh": "2024-11-29 01:50:19 +0000",
+      "glow_berries": "2024-11-28 22:50:57 +0000",
+      "enchanted_golden_apple": "2024-11-29 01:45:26 +0000"
     },
     "done": false
   },
@@ -1860,6 +1865,60 @@
   "sophisticatedbackpacks:recipes/misc/iron_backpack": {
     "criteria": {
       "has_backpack": "2024-11-28 22:51:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-11-29 01:50:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2024-11-29 13:33:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/milk_bucket_from_bottles": {
+    "criteria": {
+      "has_milk_bottle": "2024-11-29 13:33:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2024-11-29 13:33:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-11-29 13:33:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2024-11-29 13:33:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2024-11-29 13:33:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2024-11-29 13:33:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cake_from_milk_bottle": {
+    "criteria": {
+      "has_milk_bottle": "2024-11-29 13:33:32 +0000"
     },
     "done": true
   },
