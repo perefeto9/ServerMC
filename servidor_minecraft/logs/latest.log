@@ -603,3 +603,13 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Nov2024 18:53:11.776] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 82182 ms
 [30Nov2024 18:53:11.780] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (99.840s)! For help, type "help"
 [30Nov2024 18:53:11.845] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[30Nov2024 19:06:16.274] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[30Nov2024 19:06:16.317] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Seta33[/127.163.197.242:43835] logged in with entity id 760 at (-48.5, 104.0, 64.5)
+[30Nov2024 19:06:16.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 joined the game
+[30Nov2024 19:06:17.441] [Server thread/INFO] [Jade/]: Syncing config to Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e)
+[30Nov2024 19:06:18.480] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[30Nov2024 19:07:48.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Acquire Hardware]
+[30Nov2024 19:07:50.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Suit Up]
+[30Nov2024 19:08:06.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Sweet Dreams]
+[30Nov2024 19:08:56.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Isn't It Iron Pick]
+[30Nov2024 19:09:59.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Monster Hunter]

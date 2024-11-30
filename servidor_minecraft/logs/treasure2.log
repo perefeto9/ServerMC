@@ -4215,3 +4215,4 @@
 2024-11-30 18:52:11,964 [Worker-Main-1] INFO treasure2 | WellGenerator.java:207 | CHEATER! Wishing Well at coords: 42 64 103
 2024-11-30 18:53:12,393 [Server thread] WARN treasure2 | DeferredGeneratorBlockEntity.java:120 | unable to locate rarity config for rarity - >COMMON
 2024-11-30 18:53:12,396 [Server thread] WARN treasure2 | DeferredGeneratorBlockEntity.java:120 | unable to locate rarity config for rarity - >COMMON
+2024-11-30 19:07:30,129 [Server thread] WARN treasure2 | DeferredGeneratorBlockEntity.java:120 | unable to locate rarity config for rarity - >UNCOMMON
