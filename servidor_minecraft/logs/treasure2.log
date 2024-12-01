@@ -4216,3 +4216,250 @@
 2024-11-30 18:53:12,393 [Server thread] WARN treasure2 | DeferredGeneratorBlockEntity.java:120 | unable to locate rarity config for rarity - >COMMON
 2024-11-30 18:53:12,396 [Server thread] WARN treasure2 | DeferredGeneratorBlockEntity.java:120 | unable to locate rarity config for rarity - >COMMON
 2024-11-30 19:07:30,129 [Server thread] WARN treasure2 | DeferredGeneratorBlockEntity.java:120 | unable to locate rarity config for rarity - >UNCOMMON
+2024-11-30 19:11:21,949 [Server thread] INFO treasure2 | AbstractTreasureChestBlock.java:162 | AbstractTreasureChestBlock | newBlockEntity | lockStates -> [LockState [slot=LockSlot [index=0, face=NORTH, xOffset=0.5, yOffset=0.95, zOffset=0.3, rotation=0.0], lockItem=null], LockState [slot=LockSlot [index=1, face=NORTH, xOffset=0.5, yOffset=0.95, zOffset=0.7, rotation=0.0], lockItem=null]]
+2024-11-30 19:11:21,950 [Server thread] INFO treasure2 | AbstractTreasureChestBlock.java:163 | AbstractTreasureChestBlock | newBlockEntity | tileEntity -> mod.gottsch.forge.treasure2.core.block.entity.CardboardBoxBlockEntity@60110f9c @ BlockPos{x=92, y=101, z=339}
+2024-11-30 19:11:22,040 [Server thread] INFO treasure2 | PitChestFeatureGenerator.java:130 | CHEATER! COMMON chest at coords: 92 112 339
+2024-11-30 19:16:25,917 [Server thread] INFO treasure2 | Config.java:750 | transforming mob set config...
+2024-11-30 19:16:25,919 [Server thread] INFO treasure2 | Config.java:759 | adding mobset to map -> MobSet{name='treasure2:wishing_well_group', category='wishing_wells', biomeWhitelist=[], biomeBlacklist=[], count=IntegerRange [min=1, max=3], mobs=[WeightedMob{name='minecraft:zombie', weight=35}, WeightedMob{name='minecraft:zombie_villager', weight=10}, WeightedMob{name='minecraft:skeleton', weight=35}, WeightedMob{name='minecraft:vex', weight=20}, WeightedMob{name='minecraft:creeper', weight=15}, WeightedMob{name='minecraft:slime', weight=5}]}
+2024-11-30 19:16:25,919 [Server thread] INFO treasure2 | Config.java:759 | adding mobset to map -> MobSet{name='treasure2:small_zombie_group', category='zombies', biomeWhitelist=[], biomeBlacklist=[], count=IntegerRange [min=1, max=3], mobs=[WeightedMob{name='minecraft:zombie', weight=90}, WeightedMob{name='minecraft:zombie_villager', weight=10}]}
+2024-11-30 19:16:25,919 [Server thread] INFO treasure2 | Config.java:759 | adding mobset to map -> MobSet{name='treasure2:medium_zombie_group', category='zombies', biomeWhitelist=[], biomeBlacklist=[], count=IntegerRange [min=2, max=5], mobs=[WeightedMob{name='minecraft:zombie', weight=90}, WeightedMob{name='minecraft:zombie_villager', weight=10}]}
+2024-11-30 19:19:50,194 [modloading-worker-0] WARN treasure2 | TreasureLootTableRegistry.java:173 | unable to locate file in jar -> data/treasure2/loot_tables/injects
+2024-11-30 19:20:07,276 [main] INFO treasure2 | TreasureTags.java:135 | in tags updated event
+2024-11-30 19:20:07,278 [main] INFO treasure2 | TreasureTags.java:152 | registering key -> treasure2:stone_key by rarity -> COMMON
+2024-11-30 19:20:07,279 [main] INFO treasure2 | TreasureTags.java:152 | registering key -> treasure2:leaf_key by rarity -> UNCOMMON
+2024-11-30 19:20:07,279 [main] INFO treasure2 | TreasureTags.java:152 | registering key -> treasure2:gold_key by rarity -> SCARCE
+2024-11-30 19:20:07,279 [main] INFO treasure2 | TreasureTags.java:152 | registering key -> treasure2:diamond_key by rarity -> RARE
+2024-11-30 19:20:07,279 [main] INFO treasure2 | TreasureTags.java:152 | registering key -> treasure2:thiefs_lock_pick by rarity -> UNCOMMON
+2024-11-30 19:20:07,279 [main] INFO treasure2 | TreasureTags.java:152 | registering key -> treasure2:ember_key by rarity -> SCARCE
+2024-11-30 19:20:07,280 [main] INFO treasure2 | TreasureTags.java:152 | registering key -> treasure2:wood_key by rarity -> COMMON
+2024-11-30 19:20:07,280 [main] INFO treasure2 | TreasureTags.java:152 | registering key -> treasure2:metallurgists_key by rarity -> RARE
+2024-11-30 19:20:07,280 [main] INFO treasure2 | TreasureTags.java:152 | registering key -> treasure2:skeleton_key by rarity -> RARE
+2024-11-30 19:20:07,280 [main] INFO treasure2 | TreasureTags.java:152 | registering key -> treasure2:jewelled_key by rarity -> EPIC
+2024-11-30 19:20:07,280 [main] INFO treasure2 | TreasureTags.java:152 | registering key -> treasure2:ruby_key by rarity -> EPIC
+2024-11-30 19:20:07,281 [main] INFO treasure2 | TreasureTags.java:152 | registering key -> treasure2:onyx_key by rarity -> SCARCE
+2024-11-30 19:20:07,281 [main] INFO treasure2 | TreasureTags.java:152 | registering key -> treasure2:emerald_key by rarity -> RARE
+2024-11-30 19:20:07,281 [main] INFO treasure2 | TreasureTags.java:152 | registering key -> treasure2:lightning_key by rarity -> SCARCE
+2024-11-30 19:20:07,281 [main] INFO treasure2 | TreasureTags.java:152 | registering key -> treasure2:topaz_key by rarity -> SCARCE
+2024-11-30 19:20:07,281 [main] INFO treasure2 | TreasureTags.java:152 | registering key -> treasure2:sapphire_key by rarity -> EPIC
+2024-11-30 19:20:07,282 [main] INFO treasure2 | TreasureTags.java:152 | registering key -> treasure2:pilferers_lock_pick by rarity -> COMMON
+2024-11-30 19:20:07,282 [main] INFO treasure2 | TreasureTags.java:152 | registering key -> treasure2:iron_key by rarity -> UNCOMMON
+2024-11-30 19:20:07,282 [main] INFO treasure2 | TreasureTags.java:152 | registering key -> treasure2:wither_key by rarity -> RARE
+2024-11-30 19:20:07,282 [main] INFO treasure2 | TreasureTags.java:152 | registering key -> treasure2:spider_key by rarity -> SCARCE
+2024-11-30 19:20:07,282 [main] INFO treasure2 | TreasureTags.java:152 | registering key -> treasure2:one_key by rarity -> MYTHICAL
+2024-11-30 19:20:07,283 [main] INFO treasure2 | TreasureTags.java:167 | registering lock -> treasure2:onyx_lock by rarity -> SCARCE
+2024-11-30 19:20:07,283 [main] INFO treasure2 | TreasureTags.java:167 | registering lock -> treasure2:spider_lock by rarity -> SCARCE
+2024-11-30 19:20:07,283 [main] INFO treasure2 | TreasureTags.java:167 | registering lock -> treasure2:emerald_lock by rarity -> RARE
+2024-11-30 19:20:07,283 [main] INFO treasure2 | TreasureTags.java:167 | registering lock -> treasure2:ruby_lock by rarity -> EPIC
+2024-11-30 19:20:07,283 [main] INFO treasure2 | TreasureTags.java:167 | registering lock -> treasure2:stone_lock by rarity -> COMMON
+2024-11-30 19:20:07,284 [main] INFO treasure2 | TreasureTags.java:167 | registering lock -> treasure2:leaf_lock by rarity -> UNCOMMON
+2024-11-30 19:20:07,284 [main] INFO treasure2 | TreasureTags.java:167 | registering lock -> treasure2:sapphire_lock by rarity -> EPIC
+2024-11-30 19:20:07,284 [main] INFO treasure2 | TreasureTags.java:167 | registering lock -> treasure2:diamond_lock by rarity -> RARE
+2024-11-30 19:20:07,284 [main] INFO treasure2 | TreasureTags.java:167 | registering lock -> treasure2:ember_lock by rarity -> SCARCE
+2024-11-30 19:20:07,284 [main] INFO treasure2 | TreasureTags.java:167 | registering lock -> treasure2:gold_lock by rarity -> SCARCE
+2024-11-30 19:20:07,284 [main] INFO treasure2 | TreasureTags.java:167 | registering lock -> treasure2:wood_lock by rarity -> COMMON
+2024-11-30 19:20:07,285 [main] INFO treasure2 | TreasureTags.java:167 | registering lock -> treasure2:iron_lock by rarity -> UNCOMMON
+2024-11-30 19:20:07,285 [main] INFO treasure2 | TreasureTags.java:167 | registering lock -> treasure2:topaz_lock by rarity -> SCARCE
+2024-11-30 19:20:07,285 [main] INFO treasure2 | TreasureTags.java:184 | registering chest -> treasure2:barrel_chest by rarity -> UNCOMMON
+2024-11-30 19:20:07,285 [main] INFO treasure2 | TreasureTags.java:184 | registering chest -> treasure2:viking_chest by rarity -> UNCOMMON
+2024-11-30 19:20:07,286 [main] INFO treasure2 | TreasureTags.java:184 | registering chest -> treasure2:pirate_chest by rarity -> SCARCE
+2024-11-30 19:20:07,286 [main] INFO treasure2 | TreasureTags.java:184 | registering chest -> treasure2:safe by rarity -> RARE
+2024-11-30 19:20:07,286 [main] INFO treasure2 | TreasureTags.java:184 | registering chest -> treasure2:cauldron_chest by rarity -> CAULDRON
+2024-11-30 19:20:07,286 [main] INFO treasure2 | TreasureTags.java:184 | registering chest -> treasure2:crate_chest by rarity -> UNCOMMON
+2024-11-30 19:20:07,286 [main] INFO treasure2 | TreasureTags.java:184 | registering chest -> treasure2:crate_chest_moldy by rarity -> COMMON
+2024-11-30 19:20:07,287 [main] INFO treasure2 | TreasureTags.java:184 | registering chest -> treasure2:dread_pirate_chest by rarity -> EPIC
+2024-11-30 19:20:07,287 [main] INFO treasure2 | TreasureTags.java:184 | registering chest -> treasure2:spider_chest by rarity -> RARE
+2024-11-30 19:20:07,287 [main] INFO treasure2 | TreasureTags.java:184 | registering chest -> treasure2:ironbound_chest by rarity -> UNCOMMON
+2024-11-30 19:20:07,287 [main] INFO treasure2 | TreasureTags.java:184 | registering chest -> treasure2:skull_chest by rarity -> SKULL
+2024-11-30 19:20:07,287 [main] INFO treasure2 | TreasureTags.java:184 | registering chest -> treasure2:milk_crate by rarity -> COMMON
+2024-11-30 19:20:07,287 [main] INFO treasure2 | TreasureTags.java:184 | registering chest -> treasure2:vanilla_chest by rarity -> COMMON
+2024-11-30 19:20:07,288 [main] INFO treasure2 | TreasureTags.java:184 | registering chest -> treasure2:gold_skull_chest by rarity -> GOLD_SKULL
+2024-11-30 19:20:07,288 [main] INFO treasure2 | TreasureTags.java:184 | registering chest -> treasure2:gold_strongbox by rarity -> RARE
+2024-11-30 19:20:07,288 [main] INFO treasure2 | TreasureTags.java:184 | registering chest -> treasure2:iron_strongbox by rarity -> SCARCE
+2024-11-30 19:20:07,288 [main] INFO treasure2 | TreasureTags.java:184 | registering chest -> treasure2:crystal_skull_chest by rarity -> CRYSTAL_SKULL
+2024-11-30 19:20:07,288 [main] INFO treasure2 | TreasureTags.java:184 | registering chest -> treasure2:wood_chest by rarity -> COMMON
+2024-11-30 19:20:07,288 [main] INFO treasure2 | TreasureTags.java:184 | registering chest -> treasure2:wither_chest by rarity -> WITHER
+2024-11-30 19:20:07,289 [main] INFO treasure2 | TreasureTags.java:184 | registering chest -> treasure2:compressor_chest by rarity -> EPIC
+2024-11-30 19:20:07,289 [main] INFO treasure2 | TreasureTags.java:184 | registering chest -> treasure2:cardboard_box by rarity -> COMMON
+2024-11-30 19:20:07,289 [main] INFO treasure2 | TreasureTags.java:201 | registering wishable -> treasure2:onyx by rarity -> RARE
+2024-11-30 19:20:07,290 [main] INFO treasure2 | TreasureTags.java:201 | registering wishable -> treasure2:ruby by rarity -> RARE
+2024-11-30 19:20:07,290 [main] INFO treasure2 | TreasureTags.java:201 | registering wishable -> treasure2:white_pearl by rarity -> RARE
+2024-11-30 19:20:07,290 [main] INFO treasure2 | TreasureTags.java:201 | registering wishable -> treasure2:sapphire by rarity -> EPIC
+2024-11-30 19:20:07,290 [main] INFO treasure2 | TreasureTags.java:201 | registering wishable -> treasure2:black_pearl by rarity -> EPIC
+2024-11-30 19:20:07,291 [main] INFO treasure2 | TreasureTags.java:201 | registering wishable -> treasure2:gold_coin by rarity -> SCARCE
+2024-11-30 19:20:07,291 [main] INFO treasure2 | TreasureTags.java:201 | registering wishable -> treasure2:topaz by rarity -> SCARCE
+2024-11-30 19:20:07,291 [main] INFO treasure2 | TreasureTags.java:201 | registering wishable -> minecraft:diamond by rarity -> SCARCE
+2024-11-30 19:20:07,291 [main] INFO treasure2 | TreasureTags.java:201 | registering wishable -> minecraft:emerald by rarity -> SCARCE
+2024-11-30 19:20:07,291 [main] INFO treasure2 | TreasureTags.java:201 | registering wishable -> treasure2:silver_coin by rarity -> UNCOMMON
+2024-11-30 19:20:07,291 [main] INFO treasure2 | TreasureTags.java:201 | registering wishable -> treasure2:copper_coin by rarity -> COMMON
+2024-11-30 19:20:08,420 [Server thread] INFO treasure2 | Config.java:750 | transforming mob set config...
+2024-11-30 19:20:08,435 [Server thread] INFO treasure2 | Config.java:759 | adding mobset to map -> MobSet{name='treasure2:wishing_well_group', category='wishing_wells', biomeWhitelist=[], biomeBlacklist=[], count=IntegerRange [min=1, max=3], mobs=[WeightedMob{name='minecraft:zombie', weight=35}, WeightedMob{name='minecraft:zombie_villager', weight=10}, WeightedMob{name='minecraft:skeleton', weight=35}, WeightedMob{name='minecraft:vex', weight=20}, WeightedMob{name='minecraft:creeper', weight=15}, WeightedMob{name='minecraft:slime', weight=5}]}
+2024-11-30 19:20:08,436 [Server thread] INFO treasure2 | Config.java:759 | adding mobset to map -> MobSet{name='treasure2:small_zombie_group', category='zombies', biomeWhitelist=[], biomeBlacklist=[], count=IntegerRange [min=1, max=3], mobs=[WeightedMob{name='minecraft:zombie', weight=90}, WeightedMob{name='minecraft:zombie_villager', weight=10}]}
+2024-11-30 19:20:08,437 [Server thread] INFO treasure2 | Config.java:759 | adding mobset to map -> MobSet{name='treasure2:medium_zombie_group', category='zombies', biomeWhitelist=[], biomeBlacklist=[], count=IntegerRange [min=2, max=5], mobs=[WeightedMob{name='minecraft:zombie', weight=90}, WeightedMob{name='minecraft:zombie_villager', weight=10}]}
+2024-11-30 19:20:09,239 [Server thread] INFO treasure2 | WorldEventHandler.java:54 | In world load event
+2024-11-30 19:20:09,241 [Server thread] INFO treasure2 | WorldEventHandler.java:64 | In world load event for dimension minecraft:overworld
+2024-11-30 19:20:09,256 [Server thread] INFO treasure2 | MobSetRegistry.java:37 | mobSetConfig optional ...
+2024-11-30 19:20:09,256 [Server thread] INFO treasure2 | MobSetRegistry.java:39 | mobSetConfig is present
+2024-11-30 19:20:09,909 [Server thread] WARN treasure2 | TreasureTemplateRegistry.java:791 | biome -> 'minecraft:desert' is not registgered
+2024-11-30 19:20:09,909 [Server thread] WARN treasure2 | TreasureTemplateRegistry.java:791 | biome -> 'minecraft:desert' is not registgered
+2024-11-30 19:20:09,909 [Server thread] WARN treasure2 | TreasureTemplateRegistry.java:791 | biome -> 'minecraft:desert' is not registgered
+2024-11-30 19:20:09,909 [Server thread] WARN treasure2 | TreasureTemplateRegistry.java:791 | biome -> 'minecraft:desert' is not registgered
+2024-11-30 19:20:09,910 [Server thread] WARN treasure2 | TreasureTemplateRegistry.java:791 | biome -> 'minecraft:desert' is not registgered
+2024-11-30 19:20:09,910 [Server thread] WARN treasure2 | TreasureTemplateRegistry.java:791 | biome -> 'minecraft:desert' is not registgered
+2024-11-30 19:20:09,910 [Server thread] WARN treasure2 | TreasureTemplateRegistry.java:791 | biome -> 'minecraft:desert' is not registgered
+2024-11-30 19:20:09,910 [Server thread] WARN treasure2 | TreasureTemplateRegistry.java:791 | biome -> 'minecraft:desert' is not registgered
+2024-11-30 19:20:25,650 [Server thread] INFO treasure2 | WorldEventHandler.java:54 | In world load event
+2024-11-30 19:20:25,651 [Server thread] INFO treasure2 | WorldEventHandler.java:64 | In world load event for dimension minecraft:the_end
+2024-11-30 19:20:25,659 [Server thread] INFO treasure2 | WorldEventHandler.java:54 | In world load event
+2024-11-30 19:20:25,659 [Server thread] INFO treasure2 | WorldEventHandler.java:64 | In world load event for dimension twilightforest:twilight_forest
+2024-11-30 19:20:25,663 [Server thread] INFO treasure2 | WorldEventHandler.java:54 | In world load event
+2024-11-30 19:20:25,663 [Server thread] INFO treasure2 | WorldEventHandler.java:64 | In world load event for dimension minecraft:the_nether
+2024-11-30 19:21:42,168 [Server thread] WARN treasure2 | DeferredGeneratorBlockEntity.java:120 | unable to locate rarity config for rarity - >UNCOMMON
+2024-11-30 19:23:20,718 [Server thread] INFO treasure2 | AbstractTreasureChestBlock.java:162 | AbstractTreasureChestBlock | newBlockEntity | lockStates -> [LockState [slot=LockSlot [index=0, face=NORTH, xOffset=0.5, yOffset=0.3, zOffset=0.05, rotation=0.0], lockItem=null]]
+2024-11-30 19:23:20,719 [Server thread] INFO treasure2 | AbstractTreasureChestBlock.java:163 | AbstractTreasureChestBlock | newBlockEntity | tileEntity -> mod.gottsch.forge.treasure2.core.block.entity.VanillaChestBlockEntity@57162940 @ BlockPos{x=-159, y=56, z=194}
+2024-11-30 19:23:20,748 [Server thread] INFO treasure2 | PitChestFeatureGenerator.java:130 | CHEATER! COMMON chest at coords: -159 64 194
+2024-11-30 19:31:59,312 [Server thread] WARN treasure2 | DeferredGeneratorBlockEntity.java:120 | unable to locate rarity config for rarity - >UNCOMMON
+2024-11-30 19:32:20,245 [Server thread] INFO treasure2 | AbstractTreasureChestBlock.java:162 | AbstractTreasureChestBlock | newBlockEntity | lockStates -> [LockState [slot=LockSlot [index=0, face=NORTH, xOffset=0.5, yOffset=0.6, zOffset=0.05, rotation=0.0], lockItem=null]]
+2024-11-30 19:32:20,245 [Server thread] INFO treasure2 | AbstractTreasureChestBlock.java:163 | AbstractTreasureChestBlock | newBlockEntity | tileEntity -> mod.gottsch.forge.treasure2.core.block.entity.MoldyCrateChestBlockEntity@7ba0aa9b @ BlockPos{x=254, y=52, z=173}
+2024-11-30 19:32:20,276 [Server thread] INFO treasure2 | PitChestFeatureGenerator.java:130 | CHEATER! COMMON chest at coords: 254 67 173
+2024-11-30 19:32:59,256 [Server thread] INFO treasure2 | AbstractTreasureChestBlock.java:162 | AbstractTreasureChestBlock | newBlockEntity | lockStates -> [LockState [slot=LockSlot [index=0, face=NORTH, xOffset=0.5, yOffset=0.95, zOffset=0.3, rotation=0.0], lockItem=null], LockState [slot=LockSlot [index=1, face=NORTH, xOffset=0.5, yOffset=0.95, zOffset=0.7, rotation=0.0], lockItem=null]]
+2024-11-30 19:32:59,256 [Server thread] INFO treasure2 | AbstractTreasureChestBlock.java:163 | AbstractTreasureChestBlock | newBlockEntity | tileEntity -> mod.gottsch.forge.treasure2.core.block.entity.CauldronChestBlockEntity@628214d2 @ BlockPos{x=42, y=33, z=389}
+2024-11-30 19:32:59,283 [Server thread] INFO treasure2 | PitChestFeatureGenerator.java:130 | CHEATER! CAULDRON chest at coords: 42 63 389
+2024-11-30 19:50:17,755 [Server thread] INFO treasure2 | AbstractTreasureChestBlock.java:162 | AbstractTreasureChestBlock | newBlockEntity | lockStates -> [LockState [slot=LockSlot [index=0, face=NORTH, xOffset=0.5, yOffset=0.95, zOffset=0.3, rotation=0.0], lockItem=null], LockState [slot=LockSlot [index=1, face=NORTH, xOffset=0.5, yOffset=0.95, zOffset=0.7, rotation=0.0], lockItem=null]]
+2024-11-30 19:50:17,755 [Server thread] INFO treasure2 | AbstractTreasureChestBlock.java:163 | AbstractTreasureChestBlock | newBlockEntity | tileEntity -> mod.gottsch.forge.treasure2.core.block.entity.CardboardBoxBlockEntity@6c3bbbb9 @ BlockPos{x=25, y=60, z=-217}
+2024-11-30 19:50:17,796 [Server thread] INFO treasure2 | PitChestFeatureGenerator.java:130 | CHEATER! COMMON chest at coords: 25 67 -217
+2024-11-30 19:50:46,514 [Server thread] INFO treasure2 | AbstractTreasureChestBlock.java:162 | AbstractTreasureChestBlock | newBlockEntity | lockStates -> [LockState [slot=LockSlot [index=0, face=NORTH, xOffset=0.5, yOffset=0.3, zOffset=0.05, rotation=0.0], lockItem=null], LockState [slot=LockSlot [index=1, face=EAST, xOffset=0.95, yOffset=0.3, zOffset=0.5, rotation=90.0], lockItem=null], LockState [slot=LockSlot [index=2, face=WEST, xOffset=0.05, yOffset=0.3, zOffset=0.5, rotation=-90.0], lockItem=null]]
+2024-11-30 19:50:46,515 [Server thread] INFO treasure2 | AbstractTreasureChestBlock.java:163 | AbstractTreasureChestBlock | newBlockEntity | tileEntity -> mod.gottsch.forge.treasure2.core.block.entity.WoodChestBlockEntity@61c3b735 @ BlockPos{x=-184, y=61, z=-230}
+2024-11-30 19:50:46,542 [Server thread] INFO treasure2 | PitChestFeatureGenerator.java:130 | CHEATER! COMMON chest at coords: -184 70 -230
+2024-11-30 20:04:17,315 [Server thread] INFO treasure2 | AbstractTreasureChestBlock.java:162 | AbstractTreasureChestBlock | newBlockEntity | lockStates -> [LockState [slot=LockSlot [index=0, face=NORTH, xOffset=0.5, yOffset=0.95, zOffset=0.05, rotation=0.0], lockItem=null], LockState [slot=LockSlot [index=1, face=NORTH, xOffset=0.5, yOffset=0.4, zOffset=0.05, rotation=0.0], lockItem=null]]
+2024-11-30 20:04:17,316 [Server thread] INFO treasure2 | AbstractTreasureChestBlock.java:163 | AbstractTreasureChestBlock | newBlockEntity | tileEntity -> mod.gottsch.forge.treasure2.core.block.entity.WitherChestBlockEntity@3e217433 @ BlockPos{x=-377, y=29, z=-343}
+2024-11-30 20:04:17,316 [Server thread] INFO treasure2 | WitherFeatureGenerator.java:216 | CHEATER! WITHER chest at coords: -377 64 -343
+2024-11-30 20:05:23,988 [Server thread] INFO treasure2 | AbstractTreasureChestBlock.java:162 | AbstractTreasureChestBlock | newBlockEntity | lockStates -> [LockState [slot=LockSlot [index=0, face=EAST, xOffset=0.72, yOffset=0.18, zOffset=0.5, rotation=90.0], lockItem=null]]
+2024-11-30 20:05:23,989 [Server thread] INFO treasure2 | AbstractTreasureChestBlock.java:163 | AbstractTreasureChestBlock | newBlockEntity | tileEntity -> mod.gottsch.forge.treasure2.core.block.entity.CrystalSkullChestBlockEntity@11f73a4d @ BlockPos{x=-572, y=37, z=-234}
+2024-11-30 20:05:24,043 [Server thread] INFO treasure2 | PitChestFeatureGenerator.java:130 | CHEATER! CRYSTAL_SKULL chest at coords: -572 72 -239
+2024-11-30 20:05:47,053 [Server thread] WARN treasure2 | DeferredGeneratorBlockEntity.java:120 | unable to locate rarity config for rarity - >CAULDRON
+2024-11-30 20:05:56,384 [Worker-Main-50] INFO treasure2 | WellGenerator.java:207 | CHEATER! Wishing Well at coords: -653 64 135
+2024-11-30 20:06:27,863 [Server thread] WARN treasure2 | DeferredGeneratorBlockEntity.java:120 | unable to locate rarity config for rarity - >COMMON
+2024-11-30 20:07:20,473 [Server thread] INFO treasure2 | AbstractTreasureChestBlock.java:162 | AbstractTreasureChestBlock | newBlockEntity | lockStates -> [LockState [slot=LockSlot [index=0, face=NORTH, xOffset=0.5, yOffset=0.3, zOffset=0.05, rotation=0.0], lockItem=null]]
+2024-11-30 20:07:20,474 [Server thread] INFO treasure2 | AbstractTreasureChestBlock.java:163 | AbstractTreasureChestBlock | newBlockEntity | tileEntity -> mod.gottsch.forge.treasure2.core.block.entity.VanillaChestBlockEntity@5313fcc2 @ BlockPos{x=-967, y=52, z=-230}
+2024-11-30 20:07:20,505 [Server thread] INFO treasure2 | PitChestFeatureGenerator.java:130 | CHEATER! COMMON chest at coords: -967 64 -230
+2024-11-30 20:07:54,958 [Server thread] INFO treasure2 | AbstractTreasureChestBlock.java:162 | AbstractTreasureChestBlock | newBlockEntity | lockStates -> [LockState [slot=LockSlot [index=0, face=NORTH, xOffset=0.5, yOffset=0.5, zOffset=0.0, rotation=0.0], lockItem=null]]
+2024-11-30 20:07:54,959 [Server thread] INFO treasure2 | AbstractTreasureChestBlock.java:163 | AbstractTreasureChestBlock | newBlockEntity | tileEntity -> mod.gottsch.forge.treasure2.core.block.entity.BarrelChestBlockEntity@5a65b798 @ BlockPos{x=-1088, y=49, z=-29}
+2024-11-30 20:07:55,011 [Server thread] INFO treasure2 | PitChestFeatureGenerator.java:130 | CHEATER! UNCOMMON chest at coords: -1088 66 -29
+2024-11-30 20:08:49,429 [Worker-Main-46] INFO treasure2 | WellGenerator.java:207 | CHEATER! Wishing Well at coords: -1262 68 -278
+2024-11-30 20:08:49,430 [Worker-Main-46] INFO treasure2 | AbstractTreasureChestBlock.java:162 | AbstractTreasureChestBlock | newBlockEntity | lockStates -> [LockState [slot=LockSlot [index=0, face=EAST, xOffset=0.72, yOffset=0.18, zOffset=0.5, rotation=90.0], lockItem=null]]
+2024-11-30 20:08:49,430 [Worker-Main-46] INFO treasure2 | AbstractTreasureChestBlock.java:163 | AbstractTreasureChestBlock | newBlockEntity | tileEntity -> mod.gottsch.forge.treasure2.core.block.entity.CrystalSkullChestBlockEntity@1ba81b03 @ BlockPos{x=-1257, y=68, z=-273}
+2024-11-30 20:09:44,931 [Server thread] WARN treasure2 | DeferredGeneratorBlockEntity.java:120 | unable to locate rarity config for rarity - >UNCOMMON
+2024-11-30 20:11:24,069 [Server thread] INFO treasure2 | AbstractTreasureChestBlock.java:162 | AbstractTreasureChestBlock | newBlockEntity | lockStates -> [LockState [slot=LockSlot [index=0, face=EAST, xOffset=0.72, yOffset=0.18, zOffset=0.5, rotation=90.0], lockItem=null]]
+2024-11-30 20:11:24,070 [Server thread] INFO treasure2 | AbstractTreasureChestBlock.java:163 | AbstractTreasureChestBlock | newBlockEntity | tileEntity -> mod.gottsch.forge.treasure2.core.block.entity.CrystalSkullChestBlockEntity@2747c078 @ BlockPos{x=-1661, y=20, z=-238}
+2024-11-30 20:11:24,236 [Server thread] INFO treasure2 | PitChestFeatureGenerator.java:130 | CHEATER! CRYSTAL_SKULL chest at coords: -1661 63 -238
+2024-11-30 20:11:58,820 [Server thread] INFO treasure2 | AbstractTreasureChestBlock.java:162 | AbstractTreasureChestBlock | newBlockEntity | lockStates -> [LockState [slot=LockSlot [index=0, face=EAST, xOffset=0.72, yOffset=0.18, zOffset=0.5, rotation=90.0], lockItem=null]]
+2024-11-30 20:11:58,821 [Server thread] INFO treasure2 | AbstractTreasureChestBlock.java:163 | AbstractTreasureChestBlock | newBlockEntity | tileEntity -> mod.gottsch.forge.treasure2.core.block.entity.SkullChestBlockEntity@bb9328f @ BlockPos{x=-1683, y=29, z=-451}
+2024-11-30 20:11:58,870 [Server thread] INFO treasure2 | PitChestFeatureGenerator.java:130 | CHEATER! SKULL chest at coords: -1689 63 -451
+2024-11-30 20:12:28,358 [Server thread] INFO treasure2 | AbstractTreasureChestBlock.java:162 | AbstractTreasureChestBlock | newBlockEntity | lockStates -> [LockState [slot=LockSlot [index=0, face=NORTH, xOffset=0.5, yOffset=0.6, zOffset=0.05, rotation=0.0], lockItem=null]]
+2024-11-30 20:12:28,359 [Server thread] INFO treasure2 | AbstractTreasureChestBlock.java:163 | AbstractTreasureChestBlock | newBlockEntity | tileEntity -> mod.gottsch.forge.treasure2.core.block.entity.MoldyCrateChestBlockEntity@1762e690 @ BlockPos{x=-1468, y=52, z=-548}
+2024-11-30 20:12:28,412 [Server thread] INFO treasure2 | PitChestFeatureGenerator.java:130 | CHEATER! COMMON chest at coords: -1468 63 -548
+2024-11-30 20:16:56,492 [Server thread] INFO treasure2 | Config.java:750 | transforming mob set config...
+2024-11-30 20:16:56,496 [Server thread] INFO treasure2 | Config.java:759 | adding mobset to map -> MobSet{name='treasure2:wishing_well_group', category='wishing_wells', biomeWhitelist=[], biomeBlacklist=[], count=IntegerRange [min=1, max=3], mobs=[WeightedMob{name='minecraft:zombie', weight=35}, WeightedMob{name='minecraft:zombie_villager', weight=10}, WeightedMob{name='minecraft:skeleton', weight=35}, WeightedMob{name='minecraft:vex', weight=20}, WeightedMob{name='minecraft:creeper', weight=15}, WeightedMob{name='minecraft:slime', weight=5}]}
+2024-11-30 20:16:56,496 [Server thread] INFO treasure2 | Config.java:759 | adding mobset to map -> MobSet{name='treasure2:small_zombie_group', category='zombies', biomeWhitelist=[], biomeBlacklist=[], count=IntegerRange [min=1, max=3], mobs=[WeightedMob{name='minecraft:zombie', weight=90}, WeightedMob{name='minecraft:zombie_villager', weight=10}]}
+2024-11-30 20:16:56,496 [Server thread] INFO treasure2 | Config.java:759 | adding mobset to map -> MobSet{name='treasure2:medium_zombie_group', category='zombies', biomeWhitelist=[], biomeBlacklist=[], count=IntegerRange [min=2, max=5], mobs=[WeightedMob{name='minecraft:zombie', weight=90}, WeightedMob{name='minecraft:zombie_villager', weight=10}]}
+2024-12-01 14:35:47,864 [modloading-worker-0] WARN treasure2 | TreasureLootTableRegistry.java:173 | unable to locate file in jar -> data/treasure2/loot_tables/injects
+2024-12-01 14:36:23,023 [main] INFO treasure2 | TreasureTags.java:135 | in tags updated event
+2024-12-01 14:36:23,025 [main] INFO treasure2 | TreasureTags.java:152 | registering key -> treasure2:stone_key by rarity -> COMMON
+2024-12-01 14:36:23,026 [main] INFO treasure2 | TreasureTags.java:152 | registering key -> treasure2:leaf_key by rarity -> UNCOMMON
+2024-12-01 14:36:23,026 [main] INFO treasure2 | TreasureTags.java:152 | registering key -> treasure2:gold_key by rarity -> SCARCE
+2024-12-01 14:36:23,026 [main] INFO treasure2 | TreasureTags.java:152 | registering key -> treasure2:diamond_key by rarity -> RARE
+2024-12-01 14:36:23,026 [main] INFO treasure2 | TreasureTags.java:152 | registering key -> treasure2:thiefs_lock_pick by rarity -> UNCOMMON
+2024-12-01 14:36:23,026 [main] INFO treasure2 | TreasureTags.java:152 | registering key -> treasure2:ember_key by rarity -> SCARCE
+2024-12-01 14:36:23,026 [main] INFO treasure2 | TreasureTags.java:152 | registering key -> treasure2:wood_key by rarity -> COMMON
+2024-12-01 14:36:23,026 [main] INFO treasure2 | TreasureTags.java:152 | registering key -> treasure2:metallurgists_key by rarity -> RARE
+2024-12-01 14:36:23,026 [main] INFO treasure2 | TreasureTags.java:152 | registering key -> treasure2:skeleton_key by rarity -> RARE
+2024-12-01 14:36:23,027 [main] INFO treasure2 | TreasureTags.java:152 | registering key -> treasure2:jewelled_key by rarity -> EPIC
+2024-12-01 14:36:23,027 [main] INFO treasure2 | TreasureTags.java:152 | registering key -> treasure2:ruby_key by rarity -> EPIC
+2024-12-01 14:36:23,027 [main] INFO treasure2 | TreasureTags.java:152 | registering key -> treasure2:onyx_key by rarity -> SCARCE
+2024-12-01 14:36:23,027 [main] INFO treasure2 | TreasureTags.java:152 | registering key -> treasure2:emerald_key by rarity -> RARE
+2024-12-01 14:36:23,027 [main] INFO treasure2 | TreasureTags.java:152 | registering key -> treasure2:lightning_key by rarity -> SCARCE
+2024-12-01 14:36:23,027 [main] INFO treasure2 | TreasureTags.java:152 | registering key -> treasure2:topaz_key by rarity -> SCARCE
+2024-12-01 14:36:23,027 [main] INFO treasure2 | TreasureTags.java:152 | registering key -> treasure2:sapphire_key by rarity -> EPIC
+2024-12-01 14:36:23,027 [main] INFO treasure2 | TreasureTags.java:152 | registering key -> treasure2:pilferers_lock_pick by rarity -> COMMON
+2024-12-01 14:36:23,028 [main] INFO treasure2 | TreasureTags.java:152 | registering key -> treasure2:iron_key by rarity -> UNCOMMON
+2024-12-01 14:36:23,028 [main] INFO treasure2 | TreasureTags.java:152 | registering key -> treasure2:wither_key by rarity -> RARE
+2024-12-01 14:36:23,028 [main] INFO treasure2 | TreasureTags.java:152 | registering key -> treasure2:spider_key by rarity -> SCARCE
+2024-12-01 14:36:23,028 [main] INFO treasure2 | TreasureTags.java:152 | registering key -> treasure2:one_key by rarity -> MYTHICAL
+2024-12-01 14:36:23,029 [main] INFO treasure2 | TreasureTags.java:167 | registering lock -> treasure2:onyx_lock by rarity -> SCARCE
+2024-12-01 14:36:23,029 [main] INFO treasure2 | TreasureTags.java:167 | registering lock -> treasure2:spider_lock by rarity -> SCARCE
+2024-12-01 14:36:23,029 [main] INFO treasure2 | TreasureTags.java:167 | registering lock -> treasure2:emerald_lock by rarity -> RARE
+2024-12-01 14:36:23,029 [main] INFO treasure2 | TreasureTags.java:167 | registering lock -> treasure2:ruby_lock by rarity -> EPIC
+2024-12-01 14:36:23,029 [main] INFO treasure2 | TreasureTags.java:167 | registering lock -> treasure2:stone_lock by rarity -> COMMON
+2024-12-01 14:36:23,029 [main] INFO treasure2 | TreasureTags.java:167 | registering lock -> treasure2:leaf_lock by rarity -> UNCOMMON
+2024-12-01 14:36:23,030 [main] INFO treasure2 | TreasureTags.java:167 | registering lock -> treasure2:sapphire_lock by rarity -> EPIC
+2024-12-01 14:36:23,030 [main] INFO treasure2 | TreasureTags.java:167 | registering lock -> treasure2:diamond_lock by rarity -> RARE
+2024-12-01 14:36:23,030 [main] INFO treasure2 | TreasureTags.java:167 | registering lock -> treasure2:ember_lock by rarity -> SCARCE
+2024-12-01 14:36:23,030 [main] INFO treasure2 | TreasureTags.java:167 | registering lock -> treasure2:gold_lock by rarity -> SCARCE
+2024-12-01 14:36:23,030 [main] INFO treasure2 | TreasureTags.java:167 | registering lock -> treasure2:wood_lock by rarity -> COMMON
+2024-12-01 14:36:23,031 [main] INFO treasure2 | TreasureTags.java:167 | registering lock -> treasure2:iron_lock by rarity -> UNCOMMON
+2024-12-01 14:36:23,031 [main] INFO treasure2 | TreasureTags.java:167 | registering lock -> treasure2:topaz_lock by rarity -> SCARCE
+2024-12-01 14:36:23,031 [main] INFO treasure2 | TreasureTags.java:184 | registering chest -> treasure2:barrel_chest by rarity -> UNCOMMON
+2024-12-01 14:36:23,032 [main] INFO treasure2 | TreasureTags.java:184 | registering chest -> treasure2:viking_chest by rarity -> UNCOMMON
+2024-12-01 14:36:23,032 [main] INFO treasure2 | TreasureTags.java:184 | registering chest -> treasure2:pirate_chest by rarity -> SCARCE
+2024-12-01 14:36:23,032 [main] INFO treasure2 | TreasureTags.java:184 | registering chest -> treasure2:safe by rarity -> RARE
+2024-12-01 14:36:23,032 [main] INFO treasure2 | TreasureTags.java:184 | registering chest -> treasure2:cauldron_chest by rarity -> CAULDRON
+2024-12-01 14:36:23,033 [main] INFO treasure2 | TreasureTags.java:184 | registering chest -> treasure2:crate_chest by rarity -> UNCOMMON
+2024-12-01 14:36:23,034 [main] INFO treasure2 | TreasureTags.java:184 | registering chest -> treasure2:crate_chest_moldy by rarity -> COMMON
+2024-12-01 14:36:23,034 [main] INFO treasure2 | TreasureTags.java:184 | registering chest -> treasure2:dread_pirate_chest by rarity -> EPIC
+2024-12-01 14:36:23,034 [main] INFO treasure2 | TreasureTags.java:184 | registering chest -> treasure2:spider_chest by rarity -> RARE
+2024-12-01 14:36:23,034 [main] INFO treasure2 | TreasureTags.java:184 | registering chest -> treasure2:ironbound_chest by rarity -> UNCOMMON
+2024-12-01 14:36:23,034 [main] INFO treasure2 | TreasureTags.java:184 | registering chest -> treasure2:skull_chest by rarity -> SKULL
+2024-12-01 14:36:23,034 [main] INFO treasure2 | TreasureTags.java:184 | registering chest -> treasure2:milk_crate by rarity -> COMMON
+2024-12-01 14:36:23,035 [main] INFO treasure2 | TreasureTags.java:184 | registering chest -> treasure2:vanilla_chest by rarity -> COMMON
+2024-12-01 14:36:23,035 [main] INFO treasure2 | TreasureTags.java:184 | registering chest -> treasure2:gold_skull_chest by rarity -> GOLD_SKULL
+2024-12-01 14:36:23,035 [main] INFO treasure2 | TreasureTags.java:184 | registering chest -> treasure2:gold_strongbox by rarity -> RARE
+2024-12-01 14:36:23,035 [main] INFO treasure2 | TreasureTags.java:184 | registering chest -> treasure2:iron_strongbox by rarity -> SCARCE
+2024-12-01 14:36:23,035 [main] INFO treasure2 | TreasureTags.java:184 | registering chest -> treasure2:crystal_skull_chest by rarity -> CRYSTAL_SKULL
+2024-12-01 14:36:23,035 [main] INFO treasure2 | TreasureTags.java:184 | registering chest -> treasure2:wood_chest by rarity -> COMMON
+2024-12-01 14:36:23,036 [main] INFO treasure2 | TreasureTags.java:184 | registering chest -> treasure2:wither_chest by rarity -> WITHER
+2024-12-01 14:36:23,036 [main] INFO treasure2 | TreasureTags.java:184 | registering chest -> treasure2:compressor_chest by rarity -> EPIC
+2024-12-01 14:36:23,036 [main] INFO treasure2 | TreasureTags.java:184 | registering chest -> treasure2:cardboard_box by rarity -> COMMON
+2024-12-01 14:36:23,037 [main] INFO treasure2 | TreasureTags.java:201 | registering wishable -> treasure2:onyx by rarity -> RARE
+2024-12-01 14:36:23,037 [main] INFO treasure2 | TreasureTags.java:201 | registering wishable -> treasure2:white_pearl by rarity -> RARE
+2024-12-01 14:36:23,037 [main] INFO treasure2 | TreasureTags.java:201 | registering wishable -> treasure2:ruby by rarity -> RARE
+2024-12-01 14:36:23,037 [main] INFO treasure2 | TreasureTags.java:201 | registering wishable -> treasure2:sapphire by rarity -> EPIC
+2024-12-01 14:36:23,037 [main] INFO treasure2 | TreasureTags.java:201 | registering wishable -> treasure2:black_pearl by rarity -> EPIC
+2024-12-01 14:36:23,038 [main] INFO treasure2 | TreasureTags.java:201 | registering wishable -> treasure2:gold_coin by rarity -> SCARCE
+2024-12-01 14:36:23,038 [main] INFO treasure2 | TreasureTags.java:201 | registering wishable -> minecraft:emerald by rarity -> SCARCE
+2024-12-01 14:36:23,038 [main] INFO treasure2 | TreasureTags.java:201 | registering wishable -> treasure2:topaz by rarity -> SCARCE
+2024-12-01 14:36:23,038 [main] INFO treasure2 | TreasureTags.java:201 | registering wishable -> minecraft:diamond by rarity -> SCARCE
+2024-12-01 14:36:23,038 [main] INFO treasure2 | TreasureTags.java:201 | registering wishable -> treasure2:silver_coin by rarity -> UNCOMMON
+2024-12-01 14:36:23,038 [main] INFO treasure2 | TreasureTags.java:201 | registering wishable -> treasure2:copper_coin by rarity -> COMMON
+2024-12-01 14:36:25,223 [Server thread] INFO treasure2 | Config.java:750 | transforming mob set config...
+2024-12-01 14:36:25,237 [Server thread] INFO treasure2 | Config.java:759 | adding mobset to map -> MobSet{name='treasure2:wishing_well_group', category='wishing_wells', biomeWhitelist=[], biomeBlacklist=[], count=IntegerRange [min=1, max=3], mobs=[WeightedMob{name='minecraft:zombie', weight=35}, WeightedMob{name='minecraft:zombie_villager', weight=10}, WeightedMob{name='minecraft:skeleton', weight=35}, WeightedMob{name='minecraft:vex', weight=20}, WeightedMob{name='minecraft:creeper', weight=15}, WeightedMob{name='minecraft:slime', weight=5}]}
+2024-12-01 14:36:25,244 [Server thread] INFO treasure2 | Config.java:759 | adding mobset to map -> MobSet{name='treasure2:small_zombie_group', category='zombies', biomeWhitelist=[], biomeBlacklist=[], count=IntegerRange [min=1, max=3], mobs=[WeightedMob{name='minecraft:zombie', weight=90}, WeightedMob{name='minecraft:zombie_villager', weight=10}]}
+2024-12-01 14:36:25,244 [Server thread] INFO treasure2 | Config.java:759 | adding mobset to map -> MobSet{name='treasure2:medium_zombie_group', category='zombies', biomeWhitelist=[], biomeBlacklist=[], count=IntegerRange [min=2, max=5], mobs=[WeightedMob{name='minecraft:zombie', weight=90}, WeightedMob{name='minecraft:zombie_villager', weight=10}]}
+2024-12-01 14:36:25,245 [Thread-1] INFO treasure2 | Config.java:750 | transforming mob set config...
+2024-12-01 14:36:25,245 [Thread-1] INFO treasure2 | Config.java:759 | adding mobset to map -> MobSet{name='treasure2:wishing_well_group', category='wishing_wells', biomeWhitelist=[], biomeBlacklist=[], count=IntegerRange [min=1, max=3], mobs=[WeightedMob{name='minecraft:zombie', weight=35}, WeightedMob{name='minecraft:zombie_villager', weight=10}, WeightedMob{name='minecraft:skeleton', weight=35}, WeightedMob{name='minecraft:vex', weight=20}, WeightedMob{name='minecraft:creeper', weight=15}, WeightedMob{name='minecraft:slime', weight=5}]}
+2024-12-01 14:36:25,245 [Thread-1] INFO treasure2 | Config.java:759 | adding mobset to map -> MobSet{name='treasure2:small_zombie_group', category='zombies', biomeWhitelist=[], biomeBlacklist=[], count=IntegerRange [min=1, max=3], mobs=[WeightedMob{name='minecraft:zombie', weight=90}, WeightedMob{name='minecraft:zombie_villager', weight=10}]}
+2024-12-01 14:36:25,246 [Thread-1] INFO treasure2 | Config.java:759 | adding mobset to map -> MobSet{name='treasure2:medium_zombie_group', category='zombies', biomeWhitelist=[], biomeBlacklist=[], count=IntegerRange [min=2, max=5], mobs=[WeightedMob{name='minecraft:zombie', weight=90}, WeightedMob{name='minecraft:zombie_villager', weight=10}]}
+2024-12-01 14:36:25,246 [Thread-1] INFO treasure2 | Config.java:750 | transforming mob set config...
+2024-12-01 14:36:25,247 [Thread-1] INFO treasure2 | Config.java:759 | adding mobset to map -> MobSet{name='treasure2:wishing_well_group', category='wishing_wells', biomeWhitelist=[], biomeBlacklist=[], count=IntegerRange [min=1, max=3], mobs=[WeightedMob{name='minecraft:zombie', weight=35}, WeightedMob{name='minecraft:zombie_villager', weight=10}, WeightedMob{name='minecraft:skeleton', weight=35}, WeightedMob{name='minecraft:vex', weight=20}, WeightedMob{name='minecraft:creeper', weight=15}, WeightedMob{name='minecraft:slime', weight=5}]}
+2024-12-01 14:36:25,247 [Thread-1] INFO treasure2 | Config.java:759 | adding mobset to map -> MobSet{name='treasure2:small_zombie_group', category='zombies', biomeWhitelist=[], biomeBlacklist=[], count=IntegerRange [min=1, max=3], mobs=[WeightedMob{name='minecraft:zombie', weight=90}, WeightedMob{name='minecraft:zombie_villager', weight=10}]}
+2024-12-01 14:36:25,247 [Thread-1] INFO treasure2 | Config.java:759 | adding mobset to map -> MobSet{name='treasure2:medium_zombie_group', category='zombies', biomeWhitelist=[], biomeBlacklist=[], count=IntegerRange [min=2, max=5], mobs=[WeightedMob{name='minecraft:zombie', weight=90}, WeightedMob{name='minecraft:zombie_villager', weight=10}]}
+2024-12-01 14:36:26,806 [Server thread] INFO treasure2 | WorldEventHandler.java:54 | In world load event
+2024-12-01 14:36:26,813 [Server thread] INFO treasure2 | WorldEventHandler.java:64 | In world load event for dimension minecraft:overworld
+2024-12-01 14:36:26,880 [Server thread] INFO treasure2 | MobSetRegistry.java:37 | mobSetConfig optional ...
+2024-12-01 14:36:26,882 [Server thread] INFO treasure2 | MobSetRegistry.java:39 | mobSetConfig is present
+2024-12-01 14:36:27,509 [Server thread] WARN treasure2 | TreasureTemplateRegistry.java:791 | biome -> 'minecraft:desert' is not registgered
+2024-12-01 14:36:27,510 [Server thread] WARN treasure2 | TreasureTemplateRegistry.java:791 | biome -> 'minecraft:desert' is not registgered
+2024-12-01 14:36:27,510 [Server thread] WARN treasure2 | TreasureTemplateRegistry.java:791 | biome -> 'minecraft:desert' is not registgered
+2024-12-01 14:36:27,511 [Server thread] WARN treasure2 | TreasureTemplateRegistry.java:791 | biome -> 'minecraft:desert' is not registgered
+2024-12-01 14:36:27,511 [Server thread] WARN treasure2 | TreasureTemplateRegistry.java:791 | biome -> 'minecraft:desert' is not registgered
+2024-12-01 14:36:27,511 [Server thread] WARN treasure2 | TreasureTemplateRegistry.java:791 | biome -> 'minecraft:desert' is not registgered
+2024-12-01 14:36:27,511 [Server thread] WARN treasure2 | TreasureTemplateRegistry.java:791 | biome -> 'minecraft:desert' is not registgered
+2024-12-01 14:36:27,513 [Server thread] WARN treasure2 | TreasureTemplateRegistry.java:791 | biome -> 'minecraft:desert' is not registgered
+2024-12-01 14:36:38,591 [Server thread] INFO treasure2 | WorldEventHandler.java:54 | In world load event
+2024-12-01 14:36:38,591 [Server thread] INFO treasure2 | WorldEventHandler.java:64 | In world load event for dimension minecraft:the_nether
+2024-12-01 14:36:38,619 [Server thread] INFO treasure2 | WorldEventHandler.java:54 | In world load event
+2024-12-01 14:36:38,619 [Server thread] INFO treasure2 | WorldEventHandler.java:64 | In world load event for dimension minecraft:the_end
+2024-12-01 14:36:38,628 [Server thread] INFO treasure2 | WorldEventHandler.java:54 | In world load event
+2024-12-01 14:36:38,628 [Server thread] INFO treasure2 | WorldEventHandler.java:64 | In world load event for dimension twilightforest:twilight_forest
+2024-12-01 14:43:43,363 [Server thread] INFO treasure2 | AbstractTreasureChestBlock.java:162 | AbstractTreasureChestBlock | newBlockEntity | lockStates -> [LockState [slot=LockSlot [index=0, face=NORTH, xOffset=0.5, yOffset=0.3, zOffset=0.05, rotation=0.0], lockItem=null]]
+2024-12-01 14:43:43,371 [Server thread] INFO treasure2 | AbstractTreasureChestBlock.java:163 | AbstractTreasureChestBlock | newBlockEntity | tileEntity -> mod.gottsch.forge.treasure2.core.block.entity.VanillaChestBlockEntity@338bc1e4 @ BlockPos{x=-1262, y=84, z=-583}
+2024-12-01 14:43:43,443 [Server thread] INFO treasure2 | PitChestFeatureGenerator.java:130 | CHEATER! COMMON chest at coords: -1262 91 -583
