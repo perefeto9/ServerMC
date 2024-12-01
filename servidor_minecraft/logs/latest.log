@@ -213,3 +213,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [01Dec2024 14:41:34.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 joined the game
 [01Dec2024 14:41:34.344] [Server thread/INFO] [Jade/]: Syncing config to Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e)
 [01Dec2024 14:41:36.881] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2952ms or 59 ticks behind
+[01Dec2024 14:48:59.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Not Today, Thank You]
+[01Dec2024 14:50:08.233] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6954ms or 139 ticks behind
+[01Dec2024 14:50:10.039] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1468, y=63, z=-743} but found not block entity block Block{treasure2:witherwood_log}[axis=y] at location
+[01Dec2024 14:50:10.044] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{treasure2:witherwood_log}[axis=y] but failed at location BlockPos{x=-1468, y=63, z=-743}
+[01Dec2024 14:54:09.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Knowledge of Death]
+[01Dec2024 14:54:09.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has reached the goal [Great minds think alike]
+[01Dec2024 14:54:30.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Knowledge raises the soul]
+[01Dec2024 14:55:40.973] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1060, y=77, z=-468} but found not block entity block Block{minecraft:smooth_stone_slab}[type=bottom,waterlogged=false] at location
+[01Dec2024 14:55:40.978] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smooth_stone_slab}[type=bottom,waterlogged=false] but failed at location BlockPos{x=-1060, y=77, z=-468}
