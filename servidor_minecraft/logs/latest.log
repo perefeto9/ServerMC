@@ -225,3 +225,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02Dec2024 21:25:50.299] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Seta33[/127.163.197.242:52343] logged in with entity id 7512 at (-1252.5874593825251, 93.0, -592.8934698078599)
 [02Dec2024 21:25:50.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 joined the game
 [02Dec2024 21:25:50.445] [Server thread/INFO] [Jade/]: Syncing config to Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e)
+[02Dec2024 21:36:36.053] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 lost connection: Timed out
+[02Dec2024 21:36:36.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 left the game
+[02Dec2024 21:38:28.268] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Seta33[/127.163.197.242:59159] logged in with entity id 9133 at (-1286.2810512582892, 67.0, -500.69999998807907)
+[02Dec2024 21:38:28.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 joined the game
+[02Dec2024 21:38:28.590] [Server thread/INFO] [Jade/]: Syncing config to Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e)
