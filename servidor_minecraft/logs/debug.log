@@ -2421,3 +2421,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02Dec2024 20:55:03.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Best Friends Forever]
 [02Dec2024 20:58:42.746] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Dec2024 20:58:42.835] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 21:03:42.700] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 21:03:42.709] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 21:06:29.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Ashes 'n Bones]
+[02Dec2024 21:07:46.461] [Worker-Main-21/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[02Dec2024 21:08:42.688] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Dec2024 21:08:42.697] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Dec2024 21:10:52.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Take Aim]

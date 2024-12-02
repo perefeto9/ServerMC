@@ -217,3 +217,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02Dec2024 20:51:27.268] [Server thread/INFO] [Jade/]: Syncing config to Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e)
 [02Dec2024 20:51:29.545] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2399ms or 47 ticks behind
 [02Dec2024 20:55:03.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Best Friends Forever]
+[02Dec2024 21:06:29.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Ashes 'n Bones]
+[02Dec2024 21:10:52.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Take Aim]
