@@ -220,3 +220,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02Dec2024 21:06:29.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Ashes 'n Bones]
 [02Dec2024 21:10:52.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Take Aim]
 [02Dec2024 21:14:30.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [False Water]
+[02Dec2024 21:24:44.453] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 lost connection: Timed out
+[02Dec2024 21:24:44.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 left the game
+[02Dec2024 21:25:50.299] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Seta33[/127.163.197.242:52343] logged in with entity id 7512 at (-1252.5874593825251, 93.0, -592.8934698078599)
+[02Dec2024 21:25:50.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 joined the game
+[02Dec2024 21:25:50.445] [Server thread/INFO] [Jade/]: Syncing config to Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e)
