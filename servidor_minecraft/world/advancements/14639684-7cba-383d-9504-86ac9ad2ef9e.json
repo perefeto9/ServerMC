@@ -30,6 +30,7 @@
       "minecraft:sparse_jungle": "2024-11-30 20:08:47 +0000",
       "minecraft:river": "2024-11-30 19:26:39 +0000",
       "minecraft:lukewarm_ocean": "2024-11-30 20:07:55 +0000",
+      "minecraft:dripstone_caves": "2024-12-02 21:13:26 +0000",
       "minecraft:forest": "2024-11-30 19:23:30 +0000",
       "minecraft:jungle": "2024-11-30 20:09:48 +0000",
       "minecraft:ocean": "2024-11-30 20:11:34 +0000",
@@ -1770,9 +1771,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-02 21:10:52 +0000"
+    },
+    "done": true
+  },
   "treasure2:recipes/misc/crystal_skull_chest": {
     "criteria": {
       "has_tool": "2024-12-02 21:03:22 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/verglas": {
+    "criteria": {
+      "has_item": "2024-12-02 21:14:30 +0000"
     },
     "done": true
   },
@@ -1890,6 +1903,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/building_blocks/verglas_block": {
+    "criteria": {
+      "has_item": "2024-12-02 21:14:30 +0000"
+    },
+    "done": true
+  },
   "treasure2:recipes/decorations/gravestone3_polished_granite": {
     "criteria": {
       "has_tool": "2024-12-02 21:03:22 +0000"
@@ -1926,6 +1945,12 @@
     },
     "done": true
   },
+  "soulsweapons:verglas": {
+    "criteria": {
+      "item": "2024-12-02 21:14:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-02 21:02:55 +0000"
@@ -1941,6 +1966,12 @@
   "treasure2:recipes/tools/pouch": {
     "criteria": {
       "has_tool": "2024-12-02 21:03:22 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/skofnung_stone": {
+    "criteria": {
+      "has_item": "2024-12-02 21:14:30 +0000"
     },
     "done": true
   },
@@ -1986,9 +2017,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-02 21:10:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_ingot_from_dwarven_axe": {
     "criteria": {
       "has_weapon": "2024-12-02 21:04:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2024-12-02 21:14:47 +0000"
     },
     "done": true
   },
@@ -2001,6 +2044,12 @@
   "treasure2:recipes/decorations/skull_and_crossbones": {
     "criteria": {
       "has_tool": "2024-12-02 21:03:22 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/sting": {
+    "criteria": {
+      "has_item": "2024-12-02 21:14:30 +0000"
     },
     "done": true
   },
